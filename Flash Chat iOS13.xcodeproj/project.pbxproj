@@ -16,7 +16,7 @@
 		0B62818D235DF00B00E35CAF /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B62818C235DF00B00E35CAF /* RegisterViewController.swift */; };
 		0B62818F235DF01000E35CAF /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B62818E235DF01000E35CAF /* LoginViewController.swift */; };
 		0B628191235DF01B00E35CAF /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B628190235DF01B00E35CAF /* ChatViewController.swift */; };
-		2F1B206587D9CEB0C2E2F747 /* Pods_Flash_Chat_iOS13.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F2958530C23DF6C832718DA /* Pods_Flash_Chat_iOS13.framework */; };
+		CF6848A92847ED8800B632A3 /* Pods_Flash_Chat_iOS13.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F2958530C23DF6C832718DA /* Pods_Flash_Chat_iOS13.framework */; };
 		CFBC621B2846AB3300DE7D8F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CFBC621A2846AB3300DE7D8F /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
@@ -43,7 +43,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F1B206587D9CEB0C2E2F747 /* Pods_Flash_Chat_iOS13.framework in Frameworks */,
+				CF6848A92847ED8800B632A3 /* Pods_Flash_Chat_iOS13.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
