@@ -1,7 +1,7 @@
 # Flash-Chat-App
 Flash Chat App practice and all layout provided by Angela Yu.
 
-Topic learnt:
+Topic learnt: 
 
 ¬ How to integrate third party libraries in your app using Cocoapods and Swift Package Manager.
 
